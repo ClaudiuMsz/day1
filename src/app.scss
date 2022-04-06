@@ -1,11 +1,15 @@
-/* Ordered Imports */
-@import 'styles/utils/variables';
-@import 'styles/utils/mixins';
-@import 'styles/base/fonts';
-@import 'styles/base/reset';
-@import 'styles/base/root';
+// /* Ordered Imports */
+// @import 'styles/utils/variables';
+// @import 'styles/utils/mixins';
+// @import 'styles/base/fonts';
+// @import 'styles/base/reset';
+// @import 'styles/base/root';
 
-/* Unordered Imports */
-@import 'styles/layouts/footer';
-@import 'styles/layouts/header';
-@import 'styles/layouts/main';
+// /* Unordered Imports */
+// @import 'styles/layouts/footer';
+// @import 'styles/layouts/header';
+// @import 'styles/layouts/main';
+
+.header {
+  color: #f00;
+}
